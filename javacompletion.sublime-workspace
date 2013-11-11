@@ -1,0 +1,558 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"d",
+				"doIt"
+			],
+			[
+				"a",
+				"alma"
+			],
+			[
+				"re",
+				"replaceSourceDirectory"
+			],
+			[
+				"sou",
+				"source_directory"
+			],
+			[
+				"iss",
+				"isSourceDirectory"
+			],
+			[
+				"ch",
+				"chapter_processing_mode"
+			],
+			[
+				"is",
+				"isSeparatorLine"
+			],
+			[
+				"pro",
+				"processSourceDirectory"
+			],
+			[
+				"ge",
+				"generateShellCommands"
+			],
+			[
+				"get",
+				"getNextSourceDirectory"
+			],
+			[
+				"mk",
+				"mkdir_operations"
+			],
+			[
+				"all",
+				"all_operations"
+			],
+			[
+				"add",
+				"addOperation"
+			],
+			[
+				"sub_",
+				"sub_chapter_operations"
+			],
+			[
+				"mkd",
+				"mkdir_operation"
+			],
+			[
+				"ad",
+				"addOperation"
+			],
+			[
+				"sub",
+				"sub_chapter_operations"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "/Users/Gabor/Library/Application Support/Sublime Text 3/Packages/User/CleanLyndaDotComFolders.py",
+			"settings":
+			{
+				"buffer_size": 3770,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "/Users/Gabor/Library/Application Support/Sublime Text 3/Packages/User/CleanLyndaDotComFolders.sublime-project",
+			"settings":
+			{
+				"buffer_size": 321,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "javacompletion.py",
+			"settings":
+			{
+				"buffer_size": 2083,
+				"line_ending": "Unix"
+			}
+		}
+	],
+	"build_system": "",
+	"command_palette":
+	{
+		"height": 107.0,
+		"selected_items":
+		[
+			[
+				"install",
+				"Package Control: Install Package"
+			],
+			[
+				"inst",
+				"Package Control: Install Package"
+			],
+			[
+				"disable",
+				"Package Control: Disable Package"
+			],
+			[
+				"enab",
+				"Package Control: Enable Package"
+			],
+			[
+				"package",
+				"Package Control: Install Package"
+			],
+			[
+				"fil",
+				"Filter Lines: Filter With String"
+			],
+			[
+				"filter",
+				"Filter Lines: Filter With String"
+			],
+			[
+				"dup",
+				"File: Duplicate"
+			],
+			[
+				"sort",
+				"Sort Lines"
+			],
+			[
+				"conver",
+				"Convert Case: Lower Case"
+			],
+			[
+				"disabl",
+				"Package Control: Disable Package"
+			],
+			[
+				"insta",
+				"Package Control: Install Package"
+			],
+			[
+				"in",
+				"InsertNums"
+			],
+			[
+				"ins",
+				"InsertNums"
+			],
+			[
+				"INSTALL",
+				"Package Control: Install Package"
+			]
+		],
+		"width": 467.0
+	},
+	"console":
+	{
+		"height": 470.0,
+		"history":
+		[
+			"view.run_command('create_shell_commands')",
+			"view.run_command('clean_lynda_dot_com_folders')"
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/Users/Gabor/Library/Application Support/Sublime Text 3/Packages/User/CleanLyndaDocComFolders.py",
+		"/Users/Gabor/Tmp/test/Test.java",
+		"/Users/Gabor/Tmp/test/TestHelper.java",
+		"/Applications/Sublime Text.app/Contents/MacOS/changelog.txt",
+		"/Volumes/NO NAME/Lynda.com/CGI Essential Training/content.txt",
+		"/Volumes/NO NAME/Lynda.com/Building Facebook Applications with PHP and MySQL/content.txt",
+		"/Volumes/NO NAME/Lynda.com/Blogging for Your Business/content.txt",
+		"/Volumes/NO NAME/Lynda.com/Up and Running with Studio One/content.txt",
+		"/Volumes/NO NAME/Lynda.com/PowerPoint 2013 Essential Training/content.txt",
+		"/Volumes/NO NAME/Lynda.com/Keynote '09 Essential Training/content.txt",
+		"/Volumes/NO NAME/Lynda.com/CSS - Advanced Typographic Techniques/content.txt",
+		"/Volumes/NO NAME/Lynda.com/Foundation - Incorporating Sass and Compass/content.txt",
+		"/Volumes/NO NAME/Lynda.com/Fundamentals of Software Version Control/content.txt",
+		"/Volumes/NO NAME/Lynda.com/Getting Started with ActionScript/content.txt",
+		"/Volumes/NO NAME/Lynda.com/Google Calendar Essential Training/content.txt",
+		"/Volumes/NO NAME/Lynda.com/Google Drive Essential Training/content.txt",
+		"/Volumes/NO NAME/Lynda.com/SQL Server Reporting Services in Depth/content.txt",
+		"/Volumes/NO NAME/Lynda.com/Prototype and script.aculo.us Essential Training/content.txt",
+		"/Volumes/NO NAME/Lynda.com/Up and Running with Articulate Storyline/content.txt",
+		"/Volumes/NO NAME/Lynda.com/Foundations of Programming - Software Quality Assurance/content.txt",
+		"/Volumes/NO NAME/Lynda.com/Foundations of Programming - Refactoring Code/content.txt",
+		"/Volumes/NO NAME/Lynda.com/Foundations of Programming - Code Efficiency/content.txt",
+		"/Volumes/NO NAME/Lynda.com/Foundations of Programming - Web Services/content.txt",
+		"/Volumes/NO NAME/Lynda.com/Switching from Windows to Mac (2012)/content.txt",
+		"/Volumes/NO NAME/Lynda.com/R Statistics Essential Training/content.txt",
+		"/Volumes/NO NAME/Lynda.com/ActionScript 3.0 Projects - Game Development/content.txt",
+		"/Volumes/NO NAME/Lynda.com/ActionScript 3.0 Projects - Game Development/4mv. Creating the cards/index.m3u8",
+		"/Volumes/NO NAME/Lynda.com/Excel 2013 Essential Training/content.txt",
+		"/Volumes/NO NAME/Lynda.com/OmniFocus Essential Training/content.txt",
+		"/Volumes/NO NAME/Lynda.com/iPad Music Production - GarageBand/content.txt",
+		"/Volumes/NO NAME/Lynda.com/Logic Pro X Essential Training/content.txt",
+		"/Volumes/NO NAME/Lynda.com/iMovie '11 Essential Training/content.txt",
+		"/Volumes/NO NAME/Lynda.com/PostgreSQL 9 with PHP Essential Training/content.txt",
+		"/Volumes/NO NAME/Lynda.com/GarageBand '11 Essential Training/content.txt",
+		"/Volumes/NO NAME/Lynda.com/SQL Server 2008 Essential Training/content.txt",
+		"/Volumes/NO NAME/Lynda.com/SQL Server 2012 New Features/content.txt",
+		"/Volumes/NO NAME/Lynda.com/SQLite 3 with PHP Essential Training/content.txt",
+		"/Volumes/NO NAME/Lynda.com/Up and Running with Google Apps Script/content.txt",
+		"/Volumes/NO NAME/Lynda.com/Up and Running with Online Surveys/content.txt",
+		"/Volumes/NO NAME/Lynda.com/Working with Data on the Web/content.txt",
+		"/Volumes/NO NAME/Lynda.com/JavaScript and JSON/content.txt",
+		"/Volumes/NO NAME/Lynda.com/Node.js Essential Training/content.txt",
+		"/Volumes/NO NAME/Lynda.com/Up and Running with Prezi/content.txt",
+		"/Volumes/NO NAME/Lynda.com/Using Perl, CGI Scripts/content.txt",
+		"/Volumes/NO NAME/Lynda.com/Up and Running with NoSQL Databases/content.txt",
+		"/Volumes/NO NAME/Lynda.com/Up and Running with Foundation/content.txt",
+		"/Volumes/NO NAME/Lynda.com/Up and Running with AngularJS/content.txt",
+		"/Volumes/NO NAME/Lynda.com/iTunes 10 Essential Training/content.txt",
+		"/Volumes/NO NAME/Lynda.com/JavaScript - Enhancing the DOM/content.txt",
+		"/Volumes/NO NAME/Lynda.com/Ruby on Rails 3 Essential Training/content.txt",
+		"/Volumes/NO NAME/Lynda.com/Practical and Effective JavaScript/content.txt",
+		"/Volumes/NO NAME/Lynda.com/Keynote - From Outline to Presentation/content.txt",
+		"/Volumes/NO NAME/Lynda.com/Flickr Essential Training/content.txt",
+		"/Volumes/NO NAME/Lynda.com/Developing for the Apple iCloud API with iOS/content.txt",
+		"/Volumes/NO NAME/Lynda.com/Designing a Presentation/content.txt",
+		"/Volumes/NO NAME/Lynda.com/CSS2 Essential Training (2003)/content.txt",
+		"/Volumes/NO NAME/Lynda.com/CSS - Frameworks and Grids/content.txt",
+		"/Volumes/NO NAME/Lynda.com/Computer Literacy for the Mac/content.txt",
+		"/Volumes/NO NAME/Lynda.com/Bootstrap 3 - Advanced Web Development/content.txt",
+		"/Volumes/NO NAME/Lynda.com/_iOS SDK and SQLite - Building Data-Driven Apps/content.txt",
+		"/Volumes/NO NAME/Lynda.com/_iOS 6 - iOS System Resources/content.txt",
+		"/Volumes/NO NAME/Lynda.com/_Building Android and iOS Apps with Dreamweaver CS5.5/content.txt",
+		"/Volumes/NO NAME/Lynda.com/Building a Note-Taking App for iOS/content.txt",
+		"/Volumes/NO NAME/Lynda.com/CSS - Visual Optimization/content.txt",
+		"/Volumes/NO NAME/Lynda.com/CSS - Gradients/content.txt",
+		"/Volumes/NO NAME/Lynda.com/CSS - Animations/content.txt",
+		"/Users/Gabor/Downloads/lynda.txt",
+		"/Volumes/NO NAME/Lynda.com/Learning Mac OS X 10.2 Jaguar/content.txt",
+		"/Users/Gabor/Library/Application Support/Sublime Text 2/Packages/Super Ant/SuperAnt_exec.py",
+		"/Volumes/NO NAME/Lynda.com/CSS Web Site Design/content.txt",
+		"/Volumes/NO NAME/Lynda.com/Up and Running with Sublime Text 2/content.txt",
+		"/Volumes/NO NAME/Lynda.com/Mac OS X 10.4 Tiger Beyond the Basics/content.txt",
+		"/Volumes/NO NAME/Lynda.com/Mac OS X 10.4 Tiger Essential Training/content.txt",
+		"/Volumes/NO NAME/Lynda.com/Mac OS X 10.5 Leopard Beyond the Basics/content.txt",
+		"/Volumes/NO NAME/Lynda.com/Mac OS X 10.5 Leopard Essential Training/content.txt",
+		"/Volumes/NO NAME/Lynda.com/Mac OS X 10.5 Leopard New Features/content.txt",
+		"/Volumes/NO NAME/Lynda.com/Mac OS X 10.8 Mountain Lion Tips and Tricks/content.txt",
+		"/Volumes/NO NAME/Lynda.com/Up and Running with Evernote for Mac/content.txt",
+		"/Volumes/NO NAME/Lynda.com/Xcode 4 Essential Training/content.txt",
+		"/Volumes/NO NAME/Lynda.com/Mac OS X Lion Server Essential Training/content.txt",
+		"/Volumes/NO NAME/Lynda.com/Mac OS X Mountain Lion New Features/content.txt",
+		"/Volumes/NO NAME/Lynda.com/Up and Running with Google Cloud Platform/content.txt",
+		"/Volumes/NO NAME/Lynda.com/Up and Running with HTML/content.txt",
+		"/Volumes/NO NAME/Lynda.com/Windows 8.1 Essential Training/content.txt",
+		"/Users/Gabor/Devel/Python/Sandbox/test.py",
+		"/Volumes/NO NAME/Lynda.com/Windows XP Essential Training/content.txt",
+		"/Volumes/NO NAME/Lynda.com/Windows Vista Essential Training/content.txt",
+		"/Volumes/NO NAME/Lynda.com/Learning Mac OS X 10.3 Panther/content.txt",
+		"/Volumes/NO NAME/Lynda.com/HTML5 Projects - Personalized Ads/content.txt",
+		"/Volumes/NO NAME/Lynda.com/HTML5 Projects - Interactive Charts/content.txt",
+		"/Volumes/NO NAME/Lynda.com/HTML5 Projects - Integrating Google Store Locator/content.txt",
+		"/Volumes/NO NAME/Lynda.com/HTML5 Projects - Customized Photo Cards/content.txt",
+		"/Volumes/NO NAME/Lynda.com/HTML5 Projects - Creating Surveys/content.txt",
+		"/Volumes/NO NAME/Lynda.com/HTML5 Projects - Creating an Advanced Responsive Presentation/content.txt",
+		"/Volumes/NO NAME/Lynda.com/HTML5 Projects - Advanced To-Do List/content.txt",
+		"/Volumes/NO NAME/Lynda.com/HTML5 Power Workshop/content.txt",
+		"/Volumes/NO NAME/Lynda.com/HTML5 for Flash Developers/content.txt",
+		"/Volumes/NO NAME/Lynda.com/HTML5 - File API in Depth/content.txt",
+		"/Volumes/NO NAME/Lynda.com/HTML5 - Document Editing in Depth/content.txt",
+		"/Volumes/NO NAME/Lynda.com/HTML5 - Background Processes with Web Workers/content.txt",
+		"/Volumes/NO NAME/Lynda.com/Flash Professional CS5 - Creating a Simple Game for iOS Devices/content.txt",
+		"/Volumes/NO NAME/Lynda.com/First Look - Mac OS X Mavericks Essential Training/content.txt",
+		"/Volumes/NO NAME/Lynda.com/Creating an iPap App with HTML5 and PhoneGap Build/content.txt",
+		"/Volumes/NO NAME/Lynda.com/Create an HTML5 Video Gallery with jQuery/content.txt",
+		"/Volumes/NO NAME/tutor/lynda.com/_Core Data for iOS and OS X/content.txt",
+		"/Users/Gabor/Library/Application Support/Sublime Text 3/Packages/Default/Default (OSX).sublime-keymap",
+		"/Users/Gabor/Library/Application Support/Sublime Text 3/Packages/User/Default (OSX).sublime-keymap",
+		"/Users/Gabor/Library/Application Support/Sublime Text 3/Packages/User/Clean Lynda.com Folders.py",
+		"/Users/Gabor/Library/Application Support/Sublime Text 3/Packages/SideBarEnhancements/Default (OSX).sublime-keymap",
+		"/Users/Gabor/Library/Application Support/Sublime Text 3/Packages/SideBarEnhancements/CHANGELOG"
+	],
+	"find":
+	{
+		"height": 35.0
+	},
+	"find_in_files":
+	{
+		"height": 93.0,
+		"where_history":
+		[
+			"",
+			"*.py",
+			""
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"( ?\\d+[hms])+ *",
+			"update",
+			"( ?\\d+[hms])+ *",
+			"						<div id=\"bkmimg-",
+			"t:",
+			"						<div id=\"bkmimg-",
+			"\".*",
+			"						<div id=\"bkmimg-",
+			"\".*",
+			"p:158,t:\"",
+			".*i\\:([0-1]+)\\,p\\:[0-9]+\\,t\\:\\\"([\\w]+)\\\".*\\n",
+			".*i\\:([0-1]+)\\,p\\:[0-9]+\\,t\\:\\\"([\\w]+)\\\"",
+			".*i:([0-1]+),p:[0-9]+,t:\"([\\w]+)\"",
+			"i:([0-1]+),p:[0-9]+,t:\"([\\w]+)\"",
+			"</div>",
+			"				<div class=\"bkm\">{ty:6,i:27",
+			"				<div class=\"bkm\">{ty:6,i:28",
+			"?",
+			".",
+			"lynda - ",
+			"lynda.com - ",
+			"lynda.com.",
+			" ?([0-9]+[hms] *)+",
+			"getNextSourceDirectory",
+			"source_directories",
+			" ?([0-9]+[hms] *)+",
+			" ?([0-9]+m )?[0-9]+s *",
+			" ?([0-9]+m )?[0-9]+s",
+			".",
+			"Lynda.com - ",
+			"Lynda.",
+			"Lynda.com.",
+			"Lynda.com",
+			"lynda.com",
+			"self.addOperationToEditor(edit, ",
+			"+e",
+			"addOperation",
+			"chapter",
+			"getAllLines",
+			"console.log",
+			"console",
+			"prepareIntroduction",
+			" ",
+			"'",
+			" ",
+			"0",
+			" ",
+			" [0-9]+.*\\n",
+			"[0-9]+.*\\n",
+			" [0-9]+.*\\n",
+			"  "
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": true,
+		"replace_history":
+		[
+			"",
+			"\\n"
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 2,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "/Users/Gabor/Library/Application Support/Sublime Text 3/Packages/User/CleanLyndaDotComFolders.py",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 3770,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Python/Python.tmLanguage",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "/Users/Gabor/Library/Application Support/Sublime Text 3/Packages/User/CleanLyndaDotComFolders.sublime-project",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 321,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								321,
+								321
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/JavaScript/JSON.tmLanguage",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 2,
+					"file": "javacompletion.py",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 2083,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								1285,
+								1285
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Python/Python.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 239.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 34.0
+	},
+	"input":
+	{
+		"height": 31.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.exec":
+	{
+		"height": 100.0
+	},
+	"project": "javacompletion.sublime-project",
+	"replace":
+	{
+		"height": 64.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 500.0,
+		"selected_items":
+		[
+		],
+		"width": 380.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": true,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 304.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}

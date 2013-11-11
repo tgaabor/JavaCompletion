@@ -1,0 +1,13 @@
+{
+	"folders":
+	[
+		{
+			"follow_symlinks": true,
+			"path": "/Users/Gabor/Library/Application Support/Sublime Text 3/Packages/User/JavaCompletion"
+		},
+		{
+			"follow_symlinks": true,
+			"path": "/Users/Gabor/Devel/src-jdk"
+		}
+	]
+}
